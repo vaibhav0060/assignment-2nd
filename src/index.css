@@ -7,8 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: radial-gradient(
     rgb(242 242 245),
-    rgb(148 81 187),
-    rgb(224 0 255)
+    /* rgb(148 81 187), */ rgb(224 0 255)
   );
 
   height: 100vh;
